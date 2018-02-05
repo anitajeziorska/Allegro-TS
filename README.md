@@ -1,3 +1,2 @@
 # test-scenarios
 
-napisz cokolwiek
